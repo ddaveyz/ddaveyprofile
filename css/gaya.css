@@ -37,6 +37,7 @@ button{
 .profile-img{
     width: 200px;
     height: 185px;
+    border-radius: 60px;
 }
 img{
     border-radius: 50%;
